@@ -1,5 +1,24 @@
 .App {
   text-align: center;
+  background-color: #ff0000;
+  margin: 0;
+  padding: 0;
+}
+
+h5{
+  margin: 0;
+  padding: 50px;
+}
+
+h1{
+  margin: 0;
+  padding: 20px;
+  margin-bottom: 50px;
+  color: blue;
+}
+
+input{
+  background-color: gainsboro;
 }
 
 .App-logo {
